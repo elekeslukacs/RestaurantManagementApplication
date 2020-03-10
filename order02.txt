@@ -1,0 +1,10 @@
+Order details: 0
+
+Table: 2
+Date: 2019/05/14 10:28:50
+Langos: 15
+Pepsi: 7
+Pepsi: 7
+Sos picant: 4
+Ceafa de porc cu cartofi: 25
+Total price: 58

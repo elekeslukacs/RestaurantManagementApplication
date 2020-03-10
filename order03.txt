@@ -1,0 +1,11 @@
+Order details: 0
+
+Table: 3
+Date: 2019/05/14 10:15:46
+Ceafa de porc cu cartofi: 25
+Cartofi cu pui: 26
+Fants: 6
+Langos: 15
+Pepsi: 7
+Pepsi: 7
+Total price: 86

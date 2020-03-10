@@ -1,0 +1,11 @@
+Order details: 1
+
+Table: 5
+Date: 2019/05/14 10:15:54
+Pepsi: 7
+Pepsi: 7
+Pepsi: 7
+Sos picant: 4
+Sos picant: 4
+Sos picant: 4
+Total price: 33

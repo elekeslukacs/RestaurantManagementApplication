@@ -1,0 +1,9 @@
+Order details: 1
+
+Table: 3
+Date: 2019/05/14 08:04:57
+Sos picant: 4
+Pui: 12
+Pui: 12
+Cartofi: 6
+Total price: 34
